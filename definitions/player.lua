@@ -1,7 +1,7 @@
 local player = {}
 
 player.name = "Violet"
-player.descriptio = "Uma guerreira espadachin."
+player.description = "Uma guerreira espadachin."
 player.maxhealth = 10
 player.health = 10
 player.attack = 4

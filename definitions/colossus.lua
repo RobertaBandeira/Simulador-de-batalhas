@@ -1,7 +1,7 @@
 local colossus = {}
 
 colossus.name = "Prismarine Colossus"
-colossus.descriptio = "Enorme estátua de prismarine que mede mais de 20 metros de altura."
+colossus.description = "Enorme estátua de prismarine que mede mais de 20 metros de altura."
 colossus.maxhealth = 50
 colossus.health = 50
 colossus.attack = 5
